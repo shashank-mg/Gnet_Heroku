@@ -1,0 +1,11 @@
+tensorflow
+fastapi
+uvicorn
+python-multipart
+pillow
+tensorflow-serving-api==2.5.0
+matplotlib
+numpy
+PIL
+tensorflow==2.8.0
+h5py==3.6.0
